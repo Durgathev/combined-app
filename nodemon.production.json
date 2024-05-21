@@ -1,0 +1,9 @@
+{
+    "watch": ["app.js", "config.js"],
+    "ext": "js,json",
+    "exec": "node app.js",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
+  
